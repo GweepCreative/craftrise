@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.craftrise.com.tr	TRUE	/	FALSE	1999999999	__cfduid	d86c6a547a4734999dc13e998083901331605471289
+www.craftrise.com.tr	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.craftrise.com.tr	TRUE	/	FALSE	1999999999	PHPSESSID	4r57jr6u3afnifnvll3jjap8ps
+.onesignal.com	TRUE	/	FALSE	1999999999	__cfduid	d2c1486223944da3a120b714b80b981d81605471292
+cdn.onesignal.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.fontawesome.com	TRUE	/	FALSE	1999999999	__cfduid	d76beaa9bf1417e2dc5be9ff3e45ea5221605471300
+kit.fontawesome.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d588a754f09f80ae7f3dae8fb2433efcb1605471304
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
